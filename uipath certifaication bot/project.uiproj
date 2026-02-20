@@ -1,0 +1,6 @@
+{
+  "Name": "uipath certifaication bot",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
